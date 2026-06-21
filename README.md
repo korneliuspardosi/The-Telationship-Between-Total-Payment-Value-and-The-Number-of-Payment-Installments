@@ -1,4 +1,4 @@
-# DicodingsCollection Dashboard ✨
+# Dicodings Collection Dashboard ✨
 
 # Dataset: https://drive.google.com/drive/folders/1PBvnJ96WP7vEXvyxMvKOwW8u5P4sltvc?usp=sharing
 # Project Overview
